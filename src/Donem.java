@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main {
+public class Donem {
     public static void main(String[] args) {
         int tarih,music,turkce,kimya,mat,fizik;
         Scanner input = new Scanner(System.in) ;
